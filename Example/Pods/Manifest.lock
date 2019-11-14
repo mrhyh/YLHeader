@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - YLHeader (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - YLHeader (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  YLHeader:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  YLHeader: c0394ae16b9e7d2931a6d0769e4adc1f7bda57b1
+
+PODFILE CHECKSUM: 335b00b1993a970a2d263ae02af317653a5671c6
+
+COCOAPODS: 1.8.3

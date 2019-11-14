@@ -1,0 +1,6 @@
+framework module YLHeader {
+  umbrella header "YLHeader-umbrella.h"
+
+  export *
+  module * { export * }
+}
