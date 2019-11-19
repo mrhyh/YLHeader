@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'YLHeader
+  s.name             = 'YLHeader'
   s.version          = '0.0.3'
 
   s.summary          = 'A short description of YLHeader.'
