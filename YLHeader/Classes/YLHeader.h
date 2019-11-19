@@ -1,14 +1,14 @@
 //
-//  Header.h
+//  YLHeader.h
 //  YLHeader
 //
-//  Created by ylgwhyh on 2019/11/14.
+//  Created by ylgwhyh on 2019/11/19.
 //  Copyright © 2019 hyh. All rights reserved.
 //
 
-#ifndef Header_h
-#define Header_h
-#endif /* Header_h */
+#ifndef YLHeader_h
+#define YLHeader_h
+
 
 #ifndef SCREEN_WIDTH
 #define SCREEN_WIDTH [UIScreen mainScreen].bounds.size.width
@@ -62,3 +62,6 @@
 #ifndef SAFE_BOTTOM_MARGIN
 #define SAFE_BOTTOM_MARGIN (IPHONE_X_SERIES ? 34.0f : 0.0f)
 #endif
+
+
+#endif /* YLHeader_h */
