@@ -22,7 +22,7 @@ pod 'YLHeader'
 
 ## Author
 
-hyh, yhheh@isoftstone.com
+hyh
 
 ## License
 
